@@ -8,7 +8,7 @@ class Shoe
     @brand = brand
 end
 def cobble
-  @codition = "new"
-    puts "Your shoe is as good as new!"
+puts "Your shoe is as good as new!"
+@codition = "new"
 end
 end
